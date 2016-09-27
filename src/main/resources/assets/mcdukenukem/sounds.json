@@ -1,0 +1,11 @@
+{
+	"records.duketheme": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "mcdukenukem:records/duketheme",
+				"stream": true
+			}
+		]
+	}
+}
